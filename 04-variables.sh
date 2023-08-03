@@ -37,3 +37,4 @@ echo "Printing the value of x: $x"
 
 # rm -rf  /data/${DATA_DIR}/     # rm-rf /data/  # rm /data/robot/
 
+echo "Today's date is $DATE"
