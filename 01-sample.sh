@@ -16,4 +16,4 @@ echo Line3
 
 echo Line4
 
-echo "Line5\nLine6"
+echo -e "Line5\nLine6"
