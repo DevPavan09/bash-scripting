@@ -19,7 +19,7 @@ This repository contains all the basics needed to learn BASH SCRIPTING and the m
     $ code.folderName
 ...
 
-# This is a repostory created to publsh all the Bash scripts and Project aitomation
+# This is a repostory created to publish all the Bash scripts and Project automation
 
 ...
 
