@@ -12,5 +12,5 @@
 
 # Syntax To Print Color Text Is :
 # Ex : 
-echo -e "\e[COLORCODEm  Your Msg To Be Printed In Color \e[0m"
+echo -e "\e[32m  Your Msg To Be Printed In Color \e[0m"
 echo -e "\e[33m I am printing YELLOW Color \e[0m"
