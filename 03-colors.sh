@@ -22,4 +22,6 @@ echo -e "\e[35m I am printing MAgneta color \e[0m"
 # Ex : 
 #   echo -e "\e[backGrouCode;foreGroudCodem your Message \e[0m"
 
+# Background + Foreground colors
+
 echo -e "\e[42;36m I am printing background and foreground colors \e[0m"
