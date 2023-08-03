@@ -21,6 +21,18 @@ DATE="02AUG2023"    # HardCoding
  
  echo a
 
- echo "Printing the value of a : $a"
+ echo "Printing the value of a : $a"   # $a   and    ${a} : both are same. Prefer to use in flower brackets
 
  echo "Printing the value of a : ${a}"
+
+ # [ ]  : Square Branket 
+# ( )  : Paranthesis
+# { }  : Flower Brackets 
+
+echo "Printing the value of x: $x"
+#  x is not declared and we are attempting to print and it's not any going to report anything and it just shows null
+
+# DATA_DIR=robot
+
+# rm -rf  /data/${DATA_DIR}/     # rm-rf /data/  # rm /data/robot/
+
