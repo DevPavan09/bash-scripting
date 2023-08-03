@@ -25,11 +25,12 @@ DATE="02AUG2023"    # HardCoding
 
  echo "Printing the value of a : ${a}"
 
- # [ ]  : Square Branket 
+# [ ]  : Square Branket 
 # ( )  : Paranthesis
 # { }  : Flower Brackets 
 
 echo "Printing the value of x: $x"
+
 #  x is not declared and we are attempting to print and it's not any going to report anything and it just shows null
 
 # DATA_DIR=robot
