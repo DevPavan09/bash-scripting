@@ -27,3 +27,5 @@ echo -e "Line5\nLine6"
 # ' '  : Single Quotes
 
 echo -e "Cloud\tDevOps\tare\tBooming"
+
+echo -e "We\tare\tlearning\tCloudDevOps \n\tThis is my batch55"
